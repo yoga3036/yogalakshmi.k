@@ -1,0 +1,13 @@
+.img{
+  width: 300x;
+  height: 300px;
+  border-radius: 50px;
+}
+.header {
+  display: flex;
+  align-item: center;
+  justify-content:center;
+  height:300px;
+
+  border:px solid black;
+}
